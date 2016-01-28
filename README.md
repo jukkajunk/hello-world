@@ -1,2 +1,7 @@
 # hello-world
-Just for testing
+
+This is just a quick test to get started with GitHub.
+
+
+
+                  LOL
